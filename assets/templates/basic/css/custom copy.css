@@ -1,0 +1,11 @@
+.error{
+	color: #DC3545;
+}
+.input-group label.error{
+    top: 100%;
+	position: absolute;
+}
+.subscribe-form label.error{
+    top: 100%;
+	position: absolute;
+}
